@@ -1,0 +1,70 @@
+.blot {
+    background-color: white;
+    margin: auto;
+    width: 600px;
+    padding: 12px 16px 2px 16px;
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
+    color: black;
+}
+
+.greenhouse {
+    margin: auto;
+    width: 500px;
+    padding: 200px 16px 2px 16px;
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
+    color: black;
+}
+
+.blog2 {
+    background-color: white;
+    width: 600px;
+    padding: 9px 16px 2px 16px;
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
+    text-align: left;
+    color: black;
+}
+
+.blogouter {
+    padding-top: 145px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.top {
+    width: 600px;
+    padding: 0px 16px 2px 16px;
+}
+
+.button {
+    font-size: 0px;
+}
+
+.homeleft {
+    margin: auto;
+}
+
+.homemiddle {
+    padding-left: 25px;
+    padding-top: 115px;
+    background-color: white;
+    width: 600px;
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
+    text-align: left;
+    color: black;
+
+    float: left;
+}
+
+.menu {
+    float: left;
+    width: 200px;
+}
+
